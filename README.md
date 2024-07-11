@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathisha</h1>
-<h3 align="center">A passionate Full stack Developer from TamilNadu.</h3>
+<h3 align="center">A passionate Full stack Developer looking for challenging opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathisha123&label=Profile%20views&color=0e75b6&style=flat" alt="nathisha123" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack from Guvi**
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **Javascript, HTML, CSS, Bootstrap,ReactJs, NodeJs, MongoDB, MySQL**
 
 - 📫 How to reach me **nathisathia@gmail.com**
 
