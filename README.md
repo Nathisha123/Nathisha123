@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱  I’m actively improving my skills to become a proficient MERN stack developer.**
+- 🌱  I’m actively improving my skills to become a proficient MERN stack developer.
 
 - 💬 Ask me about **Javascript, HTML, CSS, Bootstrap,ReactJs, NodeJs, MongoDB, MySQL**
 
